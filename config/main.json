@@ -357,6 +357,7 @@
     { "addr": "0x514910771af9ca656af840dff83e8264ecf986ca", "name": "LINK", "fullName": "ChainLink Token", "decimals": 18 },
     { "addr": "0x516e5436bafdc11083654de7bb9b95382d08d5de", "name": "ORME", "fullName": "Ormeus Coin", "decimals": 8 },
     { "addr": "0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5", "name": "VIU", "fullName": "VIU", "decimals": 18 },
+    { "addr": "0xcec0922b39CF101c892f9f6aA80488d3CBdd771A", "name": "FORN", "fullName": "Fortincoin", "decimals": 3 },
     { "addr": "0x51c6a6ef1352578ff01b078313e6779b88bdcb1e", "name": "DMINT", "fullName": "DMINT", "decimals": 18 },
     { "addr": "0x51db5ad35c671a87207d88fc11d593ac0c8415bd", "name": "MDA", "fullName": "Moeda Loyalty Points", "decimals": 18 },
     { "addr": "0x51ee82641ac238bde34b9859f98f5f311d6e4954", "name": "IQT", "fullName": "IQT Token", "decimals": 8 },
